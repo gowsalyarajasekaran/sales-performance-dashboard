@@ -83,3 +83,14 @@ SUMX(
     Raw_Sales[Unit_Price] *
     (1 - Raw_Sales[Discount])
 )
+---
+
+## 📸 Dashboard Preview
+
+### Sales Dashboard
+
+![Sales Dashboard](Screenshots/sales-dashboard.png)
+
+### Regional Detail
+
+![Regional Detail](Screenshots/regional-detail.png)
