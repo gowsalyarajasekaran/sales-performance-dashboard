@@ -84,7 +84,12 @@ SUMX(
     (1 - Raw_Sales[Discount])
 )
 ---
+That is **three backticks**.
 
+Then leave one blank line and start your dashboard section:
+
+```markdown
+---
 ## 📸 Dashboard Preview
 
 ### Sales Dashboard
